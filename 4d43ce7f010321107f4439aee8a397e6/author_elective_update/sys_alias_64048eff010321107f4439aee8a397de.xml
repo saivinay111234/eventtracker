@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_eventtracker.EventTracker</id>
+        <multiple_connections>false</multiple_connections>
+        <name>EventTracker</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-02 16:28:22</sys_created_on>
+        <sys_id>64048eff010321107f4439aee8a397de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_eventtracker.EventTracker</sys_name>
+        <sys_package display_value="eventTracker" source="x_snc_eventtracker">4d43ce7f010321107f4439aee8a397e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="eventTracker">4d43ce7f010321107f4439aee8a397e6</sys_scope>
+        <sys_update_name>sys_alias_64048eff010321107f4439aee8a397de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-02 16:28:22</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="eventTracker">4d43ce7f010321107f4439aee8a397e6</application>
+        <file_path/>
+        <instance_id>e72720a6c34be55065d9d0f4e401311a</instance_id>
+        <instance_name>nowlearning-nlinst00802350-001</instance_name>
+        <name>sys_alias_64048eff010321107f4439aee8a397de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_snc_eventtracker.EventTracker</id><multiple_connections>false</multiple_connections><name>EventTracker</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-02 16:28:22</sys_created_on><sys_id>64048eff010321107f4439aee8a397de</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_eventtracker.EventTracker</sys_name><sys_package display_value="eventTracker" source="x_snc_eventtracker">4d43ce7f010321107f4439aee8a397e6</sys_package><sys_policy/><sys_scope display_value="eventTracker">4d43ce7f010321107f4439aee8a397e6</sys_scope><sys_update_name>sys_alias_64048eff010321107f4439aee8a397de</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-02 16:28:22</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-223662922</payload_hash>
+        <record_name>x_snc_eventtracker.EventTracker</record_name>
+        <reverted_from/>
+        <source>0543ce7f010321107f4439aee8a397e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-02 16:28:22</sys_created_on>
+        <sys_id>5a248eff010321107f4439aee8a397e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1887cf04a2c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-02 16:28:22</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>92248eff3103211095ff26e9fe2274e6</update_guid>
+        <update_guid_history>92248eff3103211095ff26e9fe2274e6:-223662922</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-02 16:41:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>2d29aab0d2704f869fc061bcee527839</sys_id>
+        <sys_metadata>64048eff010321107f4439aee8a397de</sys_metadata>
+        <sys_name>x_snc_eventtracker.EventTracker</sys_name>
+        <sys_package display_value="eventTracker" source="x_snc_eventtracker">4d43ce7f010321107f4439aee8a397e6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="eventTracker">4d43ce7f010321107f4439aee8a397e6</sys_scope>
+        <sys_scope_delete display_value="">219673fdb1be4c988f952291c8704131</sys_scope_delete>
+        <sys_update_name>sys_alias_64048eff010321107f4439aee8a397de</sys_update_name>
+        <sys_update_version display_value="sys_alias_64048eff010321107f4439aee8a397de">5a248eff010321107f4439aee8a397e6</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
